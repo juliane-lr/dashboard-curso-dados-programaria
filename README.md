@@ -53,6 +53,3 @@ O relatório é dividido de forma lógica em 3 páginas principais de análise p
 ## 🚀 Como Visualizar o Projeto
 
 Para explorar os dados interativos diretamente no Looker Studio, você pode acessar o link do projeto: https://datastudio.google.com/reporting/e212a08f-3024-496a-b537-0a0fd367b868
-
----
-💡 *Desenvolvido com foco e profundidade por Ju Lopes durante a jornada PrograMaria.*
